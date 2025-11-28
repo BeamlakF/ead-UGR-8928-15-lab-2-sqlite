@@ -1,7 +1,7 @@
-## Beamlak Fekadu Hailemariam
+# Beamlak Fekadu Hailemariam
 
-# UGR/8928/15
+## UGR/8928/15
 
-# Software Stream
+## Software Stream
 
-# Using the SQLite database provider with EF Core
+## Using the SQLite database provider with EF Core
